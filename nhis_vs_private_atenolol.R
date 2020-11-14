@@ -1,3 +1,6 @@
+#important for git
+#Setting remote 'origin' to 'git@github.com:ktemadarko/Ensign_thesis.git'
+
 library(tidyverse)
 Private_Pharmacies=tibble(Number_of_years=c(0:20),Price=114*Number_of_years)
 NHIS=tibble(Number_of_years=c(0:20),Price=67.2*Number_of_years)
